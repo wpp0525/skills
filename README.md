@@ -35,7 +35,14 @@
 
 https://github.com/chaofanat/skills
 
+https://github.com/wpp0525/skills
+
+
 ## 更新日志
 
 - 2025-02-17: 添加 celery-task 技能
 - 2025-02-05: 添加 stock-analysis 技能
+
+- 2026-03-06: 支持不用隔离环境运行代码，目前先支持a股，港股接口还是不行
+
+
